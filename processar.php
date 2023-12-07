@@ -15,7 +15,7 @@
     <?php
     setlocale(LC_TIME, 'pt_BR', 'pt_BR.UTF-8', 'pt_BR.utf-8', 'portuguese');
     $pneu = $_POST['pneu'];  // criando variaveis 
-    $oleo = $_POST['oleo'];  // criando variaveis 
+    $oleo = $_POST['oleo'];  // criando variaveis . 
     $vela = $_POST['vela'];
     $valortotal = 0.00;
     $qtdtotal = 0;
