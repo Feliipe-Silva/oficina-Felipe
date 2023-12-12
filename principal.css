@@ -1,0 +1,22 @@
+p {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+
+table, td, th {
+    background-color: rgb(235, 182, 69);
+    border-color: rgb(247, 105, 105); 
+    border: 1px solid;
+    width: 50%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font: 35%;
+}
+
+body {
+    background-color: rgb(150, 150, 255);
+}
